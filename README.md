@@ -1,3 +1,30 @@
+## care_o_bot (indigo) - 0.6.5-0
+
+The packages in the `care_o_bot` repository were released into the `indigo` distro by running `/usr/bin/bloom-release care_o_bot --track indigo --rosdistro indigo` on `Fri, 01 Apr 2016 18:09:52 -0000`
+
+These packages were released:
+- `care_o_bot`
+- `care_o_bot_desktop`
+- `care_o_bot_robot`
+- `care_o_bot_simulation`
+
+Version of package(s) in repository `care_o_bot`:
+
+- upstream repository: https://github.com/ipa320/care-o-bot.git
+- release repository: https://github.com/ipa320/care-o-bot-release.git
+- rosdistro version: `0.6.3-0`
+- old version: `0.6.3-0`
+- new version: `0.6.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## care_o_bot (indigo) - 0.6.3-0
 
 The packages in the `care_o_bot` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo care_o_bot --edit` on `Thu, 08 Jan 2015 08:15:55 -0000`
